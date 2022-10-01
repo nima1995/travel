@@ -1,0 +1,77 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+}
+.header
+{
+    background: url(./images/i5.jpg)no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+.header img{
+    width: 170px;
+    float: left;
+    margin-top: 10px;
+}
+.login-btn
+{
+    width: 100px;
+    padding: 8px 0;
+    outline: none;
+    border-radius: 10px;
+    margin-top: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    float:right;
+    background: rgba(29, 54, 241, 0.96);
+}
+
+.header h1{
+    font-weight: 600;
+    font-style: italic;
+    padding-top: 150px;
+    padding-bottom: 0%;
+}
+.inputUser
+{
+    width: 90%;
+    max-width: 500px;
+    border-radius: 20px;
+    background-attachment:#fff;
+    margin: auto;
+    padding: 2px;
+    margin-top: 30px;
+
+}
+.input
+{
+    width: 100px;
+    color: rgb(12, 12, 12);
+    font-weight: 500;
+    background: yellow;
+    margin-top: 20px;
+
+}
+/* features */
+
+
+.features
+{
+    padding: 100px 0;
+}
+
+h1
+{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.feature-img
+{
+    width: 100%;
+}
